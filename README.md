@@ -1,4 +1,4 @@
-# Yii通用APP
+# WebAPP
 
 一个基于 PHP Yii2 + Vue3 构建的
 
@@ -74,7 +74,7 @@
 ```bash
 # 克隆项目
 git clone <repository-url>
-cd yii-app
+cd web-app
 
 # 运行安装脚本
 chmod +x install.sh
